@@ -1,0 +1,20 @@
+C:\Users\margarita\AppData\Local\Temporary Projects\CharToCode\bin\Debug\CharToCode.exe
+C:\Users\margarita\AppData\Local\Temporary Projects\CharToCode\bin\Debug\CharToCode.pdb
+C:\Users\margarita\AppData\Local\Temporary Projects\CharToCode\bin\Debug\CharToCode.xml
+C:\Users\margarita\AppData\Local\Temporary Projects\CharToCode\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\margarita\AppData\Local\Temporary Projects\CharToCode\obj\Debug\CharToCode.FRMMain.resources
+C:\Users\margarita\AppData\Local\Temporary Projects\CharToCode\obj\Debug\CharToCode.Resources.resources
+C:\Users\margarita\AppData\Local\Temporary Projects\CharToCode\obj\Debug\CharToCode.vbproj.GenerateResource.Cache
+C:\Users\margarita\AppData\Local\Temporary Projects\CharToCode\obj\Debug\CharToCode.exe
+C:\Users\margarita\AppData\Local\Temporary Projects\CharToCode\obj\Debug\CharToCode.xml
+C:\Users\margarita\AppData\Local\Temporary Projects\CharToCode\obj\Debug\CharToCode.pdb
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\CharToCode\CharToCode\obj\Debug\CharToCode.exe
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\CharToCode\CharToCode\obj\Debug\CharToCode.xml
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\CharToCode\CharToCode\obj\Debug\CharToCode.pdb
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\CharToCode\CharToCode\bin\Debug\CharToCode.exe
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\CharToCode\CharToCode\bin\Debug\CharToCode.pdb
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\CharToCode\CharToCode\bin\Debug\CharToCode.xml
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\CharToCode\CharToCode\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\CharToCode\CharToCode\obj\Debug\CharToCode.FRMMain.resources
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\CharToCode\CharToCode\obj\Debug\CharToCode.Resources.resources
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\CharToCode\CharToCode\obj\Debug\CharToCode.vbproj.GenerateResource.Cache
