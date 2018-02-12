@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2005/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <DataSources>
+    <DataSource Name="NeptunoConnectionString">
+      <rd:DataSourceID>f27a95fd-5a77-42cc-9a4c-e11b12f16162</rd:DataSourceID>
+      <ConnectionProperties>
+        <DataProvider>
+        </DataProvider>
+        <ConnectString>
+        </ConnectString>
+      </ConnectionProperties>
+    </DataSource>
+  </DataSources>
+  <InteractiveHeight>11in</InteractiveHeight>
+  <rd:DrawGrid>true</rd:DrawGrid>
+  <InteractiveWidth>8.5in</InteractiveWidth>
+  <rd:GridSpacing>0.25cm</rd:GridSpacing>
+  <rd:SnapToGrid>true</rd:SnapToGrid>
+  <RightMargin>2.5cm</RightMargin>
+  <LeftMargin>2.5cm</LeftMargin>
+  <BottomMargin>2.5cm</BottomMargin>
+  <rd:ReportID>828d6db8-e592-4510-abaf-3f34e627a46e</rd:ReportID>
+  <PageWidth>21cm</PageWidth>
+  <DataSets>
+    <DataSet Name="NeptunoDataSet_Empleados">
+      <Fields>
+        <Field Name="IdEmpleado">
+          <DataField>IdEmpleado</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="Apellidos">
+          <DataField>Apellidos</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Nombre">
+          <DataField>Nombre</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Cargo">
+          <DataField>Cargo</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Tratamiento">
+          <DataField>Tratamiento</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="FechaNacimiento">
+          <DataField>FechaNacimiento</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="FechaContratación">
+          <DataField>FechaContratación</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="Dirección">
+          <DataField>Dirección</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Ciudad">
+          <DataField>Ciudad</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Región">
+          <DataField>Región</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="CódPostal">
+          <DataField>CódPostal</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="País">
+          <DataField>País</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="TelDomicilio">
+          <DataField>TelDomicilio</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Extensión">
+          <DataField>Extensión</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Foto">
+          <DataField>Foto</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Notas">
+          <DataField>Notas</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Jefe">
+          <DataField>Jefe</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>NeptunoConnectionString</DataSourceName>
+        <CommandText>SELECT IdEmpleado, Apellidos, Nombre, Cargo, Tratamiento, FechaNacimiento, FechaContratación, Dirección, Ciudad, Región, CódPostal, País, TelDomicilio, Extensión, Foto, Notas, Jefe FROM Empleados</CommandText>
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+      </Query>
+      <rd:DataSetInfo>
+        <rd:DataSetName>NeptunoDataSet</rd:DataSetName>
+        <rd:TableName>Empleados</rd:TableName>
+        <rd:TableAdapterName>EmpleadosTableAdapter</rd:TableAdapterName>
+        <rd:TableAdapterFillMethod>Fill</rd:TableAdapterFillMethod>
+        <rd:TableAdapterGetDataMethod>GetData</rd:TableAdapterGetDataMethod>
+      </rd:DataSetInfo>
+    </DataSet>
+  </DataSets>
+  <Width>28.93651cm</Width>
+  <Body>
+    <ColumnSpacing>1cm</ColumnSpacing>
+    <ReportItems>
+      <Textbox Name="textbox2">
+        <rd:DefaultName>textbox2</rd:DefaultName>
+        <Top>1cm</Top>
+        <Width>4.75cm</Width>
+        <Style>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>2</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>16.5cm</Left>
+        <Height>0.61508cm</Height>
+        <Value>https://github.com/juanhlb</Value>
+      </Textbox>
+      <Textbox Name="textbox1">
+        <rd:DefaultName>textbox1</rd:DefaultName>
+        <Width>27.18651cm</Width>
+        <Style>
+          <Color>SteelBlue</Color>
+          <FontFamily>Tahoma</FontFamily>
+          <FontSize>20pt</FontSize>
+          <FontWeight>700</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>1</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.75cm</Left>
+        <Height>0.91429cm</Height>
+        <Value>Empleados</Value>
+      </Textbox>
+      <List Name="List1">
+        <Sorting>
+          <SortBy>
+            <SortExpression>=Fields!Apellidos.Value</SortExpression>
+            <Direction>Ascending</Direction>
+          </SortBy>
+        </Sorting>
+        <Left>1cm</Left>
+        <DataSetName>NeptunoDataSet_Empleados</DataSetName>
+        <ReportItems>
+          <Textbox Name="Apellidos">
+            <rd:DefaultName>Apellidos</rd:DefaultName>
+            <Width>16.75cm</Width>
+            <Style>
+              <Color>SlateGray</Color>
+              <FontFamily>Tahoma</FontFamily>
+              <FontSize>14pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>2</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Height>0.68571cm</Height>
+            <Value>=Fields!Apellidos.Value + ", " + Fields!Nombre.Value</Value>
+          </Textbox>
+          <List Name="List2">
+            <Sorting>
+              <SortBy>
+                <SortExpression>=Fields!Nombre.Value</SortExpression>
+                <Direction>Ascending</Direction>
+              </SortBy>
+            </Sorting>
+            <ZIndex>1</ZIndex>
+            <DataSetName>NeptunoDataSet_Empleados</DataSetName>
+            <ReportItems>
+              <List Name="List3">
+                <Sorting>
+                  <SortBy>
+                    <SortExpression>=Fields!Cargo.Value</SortExpression>
+                    <Direction>Ascending</Direction>
+                  </SortBy>
+                </Sorting>
+                <DataSetName>NeptunoDataSet_Empleados</DataSetName>
+                <ReportItems>
+                  <Textbox Name="Cargo">
+                    <rd:DefaultName>Cargo</rd:DefaultName>
+                    <Width>16.75cm</Width>
+                    <Style>
+                      <FontFamily>Tahoma</FontFamily>
+                      <PaddingLeft>2pt</PaddingLeft>
+                      <PaddingRight>2pt</PaddingRight>
+                      <PaddingTop>2pt</PaddingTop>
+                      <PaddingBottom>2pt</PaddingBottom>
+                    </Style>
+                    <ZIndex>1</ZIndex>
+                    <CanGrow>true</CanGrow>
+                    <Height>0.53333cm</Height>
+                    <Value>=Fields!Cargo.Value</Value>
+                  </Textbox>
+                  <List Name="List4">
+                    <Sorting>
+                      <SortBy>
+                        <SortExpression>=Fields!TelDomicilio.Value</SortExpression>
+                        <Direction>Ascending</Direction>
+                      </SortBy>
+                    </Sorting>
+                    <DataSetName>NeptunoDataSet_Empleados</DataSetName>
+                    <ReportItems>
+                      <Textbox Name="TelDomicilio">
+                        <rd:DefaultName>TelDomicilio</rd:DefaultName>
+                        <Width>16.75cm</Width>
+                        <Style>
+                          <FontFamily>Tahoma</FontFamily>
+                          <PaddingLeft>2pt</PaddingLeft>
+                          <PaddingRight>2pt</PaddingRight>
+                          <PaddingTop>2pt</PaddingTop>
+                          <PaddingBottom>2pt</PaddingBottom>
+                        </Style>
+                        <ZIndex>1</ZIndex>
+                        <CanGrow>true</CanGrow>
+                        <Height>0.53333cm</Height>
+                        <Value>=Fields!TelDomicilio.Value</Value>
+                      </Textbox>
+                      <List Name="List5">
+                        <Sorting>
+                          <SortBy>
+                            <SortExpression>=Fields!Foto.Value</SortExpression>
+                            <Direction>Ascending</Direction>
+                          </SortBy>
+                        </Sorting>
+                        <DataSetName>NeptunoDataSet_Empleados</DataSetName>
+                        <ReportItems>
+                          <List Name="List6">
+                            <Sorting>
+                              <SortBy>
+                                <SortExpression>=Fields!Notas.Value</SortExpression>
+                                <Direction>Ascending</Direction>
+                              </SortBy>
+                            </Sorting>
+                            <DataSetName>NeptunoDataSet_Empleados</DataSetName>
+                            <ReportItems>
+                              <Textbox Name="Notas">
+                                <rd:DefaultName>Notas</rd:DefaultName>
+                                <Width>18cm</Width>
+                                <Style>
+                                  <FontFamily>Tahoma</FontFamily>
+                                  <PaddingLeft>2pt</PaddingLeft>
+                                  <PaddingRight>2pt</PaddingRight>
+                                  <PaddingTop>2pt</PaddingTop>
+                                  <PaddingBottom>2pt</PaddingBottom>
+                                </Style>
+                                <CanGrow>true</CanGrow>
+                                <Height>1.75cm</Height>
+                                <Value>=Fields!Notas.Value</Value>
+                              </Textbox>
+                            </ReportItems>
+                            <Style>
+                              <FontFamily>Tahoma</FontFamily>
+                            </Style>
+                            <Grouping Name="list1_Notas">
+                              <GroupExpressions>
+                                <GroupExpression>=Fields!Notas.Value</GroupExpression>
+                              </GroupExpressions>
+                              <PageBreakAtEnd>true</PageBreakAtEnd>
+                            </Grouping>
+                            <Height>4cm</Height>
+                          </List>
+                        </ReportItems>
+                        <Top>1.26984cm</Top>
+                        <Style>
+                          <FontFamily>Tahoma</FontFamily>
+                        </Style>
+                        <Grouping Name="list1_Foto">
+                          <GroupExpressions>
+                            <GroupExpression>=Fields!Foto.Value</GroupExpression>
+                          </GroupExpressions>
+                          <PageBreakAtEnd>true</PageBreakAtEnd>
+                        </Grouping>
+                        <Height>4.23016cm</Height>
+                      </List>
+                    </ReportItems>
+                    <Top>1.26984cm</Top>
+                    <Style>
+                      <FontFamily>Tahoma</FontFamily>
+                    </Style>
+                    <Grouping Name="list1_TelDomicilio">
+                      <GroupExpressions>
+                        <GroupExpression>=Fields!TelDomicilio.Value</GroupExpression>
+                      </GroupExpressions>
+                      <PageBreakAtEnd>true</PageBreakAtEnd>
+                    </Grouping>
+                    <Height>6.98016cm</Height>
+                  </List>
+                </ReportItems>
+                <Style>
+                  <FontFamily>Tahoma</FontFamily>
+                </Style>
+                <Grouping Name="list1_Cargo">
+                  <GroupExpressions>
+                    <GroupExpression>=Fields!Cargo.Value</GroupExpression>
+                  </GroupExpressions>
+                  <PageBreakAtEnd>true</PageBreakAtEnd>
+                </Grouping>
+                <Height>8.28968cm</Height>
+              </List>
+            </ReportItems>
+            <Top>1.26984cm</Top>
+            <Style>
+              <FontFamily>Tahoma</FontFamily>
+              <FontSize>12pt</FontSize>
+            </Style>
+            <Grouping Name="list1_Nombre">
+              <GroupExpressions>
+                <GroupExpression>=Fields!Nombre.Value</GroupExpression>
+              </GroupExpressions>
+              <PageBreakAtEnd>true</PageBreakAtEnd>
+            </Grouping>
+          </List>
+          <Image Name="image1">
+            <Sizing>AutoSize</Sizing>
+            <ToolTip>=Globals!ReportFolder &amp; Fields!Foto.Value</ToolTip>
+            <Top>0.25cm</Top>
+            <Width>2.75cm</Width>
+            <Source>External</Source>
+            <Style />
+            <Left>17.25cm</Left>
+            <Height>3cm</Height>
+            <Value>="file:\" + "C:\Users\margarita\Documents\Visual Studio 2008\Projects\Neptuno\Centro electoral\bin\Debug\fotos\" + Fields!Foto.Value + ".jpg"</Value>
+          </Image>
+        </ReportItems>
+        <Top>1.75cm</Top>
+        <Style>
+          <Color>SlateGray</Color>
+          <FontFamily>Tahoma</FontFamily>
+          <FontSize>14pt</FontSize>
+        </Style>
+        <Grouping Name="list1_Apellidos">
+          <GroupExpressions>
+            <GroupExpression>=Fields!Apellidos.Value</GroupExpression>
+          </GroupExpressions>
+          <PageBreakAtEnd>true</PageBreakAtEnd>
+        </Grouping>
+        <Height>10cm</Height>
+      </List>
+    </ReportItems>
+    <Height>12.57936cm</Height>
+  </Body>
+  <Language>es-ES</Language>
+  <TopMargin>2.5cm</TopMargin>
+  <PageHeight>29.7cm</PageHeight>
+</Report>

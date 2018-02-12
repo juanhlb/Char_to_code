@@ -1,0 +1,11 @@
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Centro electoral\Centro electoral\bin\Release\Centro electoral.exe
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Centro electoral\Centro electoral\bin\Release\Centro electoral.pdb
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Centro electoral\Centro electoral\bin\Release\Centro electoral.xml
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Centro electoral\Centro electoral\obj\Release\ResolveAssemblyReference.cache
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Centro electoral\Centro electoral\obj\Release\Centro_electoral.FRMconsultaCE.resources
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Centro electoral\Centro electoral\obj\Release\Centro_electoral.FRMmain.resources
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Centro electoral\Centro electoral\obj\Release\Centro_electoral.Resources.resources
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Centro electoral\Centro electoral\obj\Release\Centro electoral.vbproj.GenerateResource.Cache
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Centro electoral\Centro electoral\obj\Release\Centro electoral.exe
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Centro electoral\Centro electoral\obj\Release\Centro electoral.xml
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Centro electoral\Centro electoral\obj\Release\Centro electoral.pdb

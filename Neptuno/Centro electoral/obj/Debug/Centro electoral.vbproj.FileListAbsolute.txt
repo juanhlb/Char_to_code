@@ -1,0 +1,34 @@
+C:\Users\margarita\AppData\Local\Temporary Projects\Centro electoral\bin\Debug\Centro electoral.exe
+C:\Users\margarita\AppData\Local\Temporary Projects\Centro electoral\bin\Debug\Centro electoral.pdb
+C:\Users\margarita\AppData\Local\Temporary Projects\Centro electoral\bin\Debug\Centro electoral.xml
+C:\Users\margarita\AppData\Local\Temporary Projects\Centro electoral\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\margarita\AppData\Local\Temporary Projects\Centro electoral\obj\Debug\Centro_electoral.FRMconsultaCE.resources
+C:\Users\margarita\AppData\Local\Temporary Projects\Centro electoral\obj\Debug\Centro_electoral.FRMmain.resources
+C:\Users\margarita\AppData\Local\Temporary Projects\Centro electoral\obj\Debug\Centro_electoral.Resources.resources
+C:\Users\margarita\AppData\Local\Temporary Projects\Centro electoral\obj\Debug\Centro electoral.vbproj.GenerateResource.Cache
+C:\Users\margarita\AppData\Local\Temporary Projects\Centro electoral\obj\Debug\Centro electoral.exe
+C:\Users\margarita\AppData\Local\Temporary Projects\Centro electoral\obj\Debug\Centro electoral.xml
+C:\Users\margarita\AppData\Local\Temporary Projects\Centro electoral\obj\Debug\Centro electoral.pdb
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Centro electoral\Centro electoral\obj\Debug\Centro electoral.exe
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Centro electoral\Centro electoral\obj\Debug\Centro electoral.xml
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Centro electoral\Centro electoral\obj\Debug\Centro electoral.pdb
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Centro electoral\Centro electoral\bin\Debug\Centro electoral.exe
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Centro electoral\Centro electoral\bin\Debug\Centro electoral.pdb
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Centro electoral\Centro electoral\bin\Debug\Centro electoral.xml
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Centro electoral\Centro electoral\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Centro electoral\Centro electoral\obj\Debug\Centro_electoral.FRMconsultaCE.resources
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Centro electoral\Centro electoral\obj\Debug\Centro_electoral.FRMmain.resources
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Centro electoral\Centro electoral\obj\Debug\Centro_electoral.Resources.resources
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Centro electoral\Centro electoral\obj\Debug\Centro electoral.vbproj.GenerateResource.Cache
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Neptuno\Centro electoral\bin\Debug\gestionneptuno.exe
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Neptuno\Centro electoral\bin\Debug\gestionneptuno.pdb
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Neptuno\Centro electoral\bin\Debug\gestionneptuno.xml
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Neptuno\Centro electoral\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Neptuno\Centro electoral\obj\Debug\neptuno.FRMconsultaCE.resources
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Neptuno\Centro electoral\obj\Debug\neptuno.FRMmain.resources
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Neptuno\Centro electoral\obj\Debug\neptuno.Resources.resources
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Neptuno\Centro electoral\obj\Debug\Centro electoral.vbproj.GenerateResource.Cache
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Neptuno\Centro electoral\obj\Debug\gestionneptuno.exe
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Neptuno\Centro electoral\obj\Debug\gestionneptuno.xml
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Neptuno\Centro electoral\obj\Debug\gestionneptuno.pdb
+C:\Users\margarita\Documents\Visual Studio 2008\Projects\Neptuno\Centro electoral\obj\Debug\neptuno.FRMempleados.resources
